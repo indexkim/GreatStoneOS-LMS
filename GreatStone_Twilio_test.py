@@ -2,6 +2,9 @@
 # coding: utf-8
 
 
+#MS Excel, Twilio로 테스트
+
+
 import datetime
 
 tomorrow = datetime.date(2021,7,1) # 괄호 안에 예약문자를 전송할 날짜를 입력하세요. ex) 2021,7,1
